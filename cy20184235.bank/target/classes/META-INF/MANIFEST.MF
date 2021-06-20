@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Cyrillucas
+Build-Jdk: 11.0.9
+Implementation-Title: cy20184235.bank
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cy20184235.foundation.bank
+Implementation-URL: https://spring.io/projects/spring-boot/cy20184235.ba
+ nk
+Created-By: Maven Integration for Eclipse
+
